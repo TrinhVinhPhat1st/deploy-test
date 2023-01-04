@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/DeployTest-1.war
+web: java -war target/DeployTest-1.war
